@@ -1,0 +1,11 @@
+{
+    "token": "bot token",
+    "prefix": "!",
+    "staff": "staff role id",
+    "highstaff": "high staff role id",
+    "dev": ["dev role id", "and this"],
+    "admin": "admin role id",
+    "guildId": "guild/ server id",
+    "allowedRoleId": "member role id"
+  }
+  
